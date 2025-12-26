@@ -1,4 +1,4 @@
-# SrudyNest
+# StudyNest
 
 A Flutter-based educational app exploring AI-powered quizzes and cross-platform mobile development. (Work in progress)
 
